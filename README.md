@@ -1,3 +1,3 @@
 # Japanese Castle Classifier.
 
-For infomation Japanese Castles see http://jcastle.info
+For information on Japanese Castles see http://jcastle.info
